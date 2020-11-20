@@ -377,6 +377,54 @@ text/>
 </LinearLayout>
 
 
+# Day 4 ......19/11/2020
+
+## OnClick Listeners
+
+## Two ways
+### 1) By Using XML File
+### 2) By Using JAVA File
+ 
+### 1) By Using XML File
+
+android:onclick="Toast"    ..........(method name in quotes)
+
+#### Method creation :
+public void Toast(View view)
+{ 
+   Toast.maketext(MainActivity.this,"getapplicationcontext","Nagarjuna",Toast.LENGTH_SHORT);
+
+    }
+
+### 2) By Using JAVA File
+
+<Button android:id="@+id/count"/>
+
+#### Steps to implement the getting the id for particular view :
+1) Give the id for particular view
+2) Declare the global variable declaration particular view
+3) Get the id for particular view corresponding to global variable object with 
+the help of findviewbyid.
+
+### Example: 
+
+Button b ;
+
+b = findviewbyid(R.id.count);
+
+b.setonclicklistener(new View.Onclicklistener)
+{
+	public void onclick(View view)
+	{
+		Toast.maketext(MainActivity.this,"getapplicationcontext","Nagarjuna",Toast.LENGTH_SHORT);
+
+
+	}
+}
+
+
+
+
 
 
 
