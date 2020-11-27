@@ -14,3 +14,5 @@
 
 [Day 8](https://transcripts.gotomeeting.com/#/s/37dd6240ad65efefba47535d16e0bbe9df7fdfede9ca573ce6bc07d3c9a6824f)
 
+[Day 9](https://transcripts.gotomeeting.com/#/s/9111c4d5f3045a167cebffbc226cb605561dbc4f9f1e23fdb59f90abecc8807e)
+
