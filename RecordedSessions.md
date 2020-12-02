@@ -20,3 +20,6 @@
 
 [Day 11](https://transcripts.gotomeeting.com/#/s/347b730de49aeb6eb6c6a030b69efb464498b0ee936e81035e2c265479c89d60)
 
+[Day 12](https://transcripts.gotomeeting.com/#/s/0b47ec9f3efee2ff53768f7352e77429f2a8aa234c956d597154f12daac73d2e)
+
+
